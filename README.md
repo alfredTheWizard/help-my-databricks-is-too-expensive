@@ -26,7 +26,8 @@ https://docs.databricks.com/en/admin/account-settings/usage.htmlx
 -	https://docs.databricks.com/en/compute/photon.html
 -	https://azure.microsoft.com/en-us/products/virtual-machines/spot#spot-virtual-machines
 -	https://www.databricks.com/blog/2021/05/25/leverage-unused-compute-capacity-for-data-ai-with-azure-spot-instances-and-azure-databricks.html
-Configure compute for jobs
+
+###Configure compute for jobs
 -	https://docs.databricks.com/en/jobs/compute.html
 
 # 4.	Prepay for Resources
