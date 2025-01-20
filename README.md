@@ -1,7 +1,7 @@
 # Help my Azure Databricks is too expensive! Some Tips and Tricks
 Some documentation and links to aid you in decreasing your Azure Databricks cost
 
-### 2. Azure Databricks Pricing
+## 2. Azure Databricks Pricing
 - https://azure.microsoft.com/en-us/pricing/details/databricks/
 - https://www.databricks.com/product/pricing
 
@@ -31,7 +31,7 @@ https://learn.microsoft.com/en-us/answers/questions/1669420/enforcing-cost-limit
 ### 4.2 Configure compute for jobs
 -	https://docs.databricks.com/en/jobs/compute.html
 
-#### 4.3	Prepay for Resources
+### 4.3	Prepay for Resources
 #### Databricks Reserved Capacity
 https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-databricks-reserved-capacity
 
