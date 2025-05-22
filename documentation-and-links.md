@@ -37,6 +37,9 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 -	https://azure.microsoft.com/en-us/products/virtual-machines/spot#spot-virtual-machines
 -	https://www.databricks.com/blog/2021/05/25/leverage-unused-compute-capacity-for-data-ai-with-azure-spot-instances-and-azure-databricks.html
 
+#### Cluster Configuration Unity Catalog Considerations
+- https://docs.databricks.com/aws/en/compute/access-mode-limitations
+
 ### 4.4 Configure compute for jobs
 #### Compute
 -	https://docs.databricks.com/en/jobs/compute.html
