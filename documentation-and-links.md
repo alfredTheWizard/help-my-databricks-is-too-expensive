@@ -40,6 +40,10 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 #### Cluster Configuration Unity Catalog Considerations
 - https://docs.databricks.com/aws/en/compute/access-mode-limitations
 
+#### Policies and access modes
+- https://docs.databricks.com/aws/en/admin/clusters/policy-families
+- https://learn.microsoft.com/en-us/azure/databricks/compute/configure#access-mode
+
 ### 4.4 Configure compute for jobs
 #### Compute
 -	https://docs.databricks.com/en/jobs/compute.html
