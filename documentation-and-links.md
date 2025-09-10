@@ -30,7 +30,7 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 -	https://learn.microsoft.com/en-us/azure/databricks/ingestion/cloud-object-storage/auto-loader/file-notification-mode
 -	https://docs.databricks.com/en/ingestion/cloud-object-storage/auto-loader/unity-catalog.html
   
-### 4.3 Cluster Settings
+### 4.2 Cluster Settings
 #### Cluster Configuration Considerations
 -	https://docs.databricks.com/en/compute/photon.html
 -	https://youtu.be/4Q2XmEsjfmg?si=3GZHMJ_Zt2DyL66E
