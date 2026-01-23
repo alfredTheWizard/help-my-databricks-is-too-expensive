@@ -21,6 +21,9 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 ### Stop (creation) of resources after budget alert in Azure Portal
 - https://learn.microsoft.com/en-us/answers/questions/1669420/enforcing-cost-limit-per-subscription-or-tenant-to
 
+### (extra) Cost of Azure Private Link
+- https://azure.microsoft.com/en-us/pricing/details/private-link/
+
 ## 4. Solutions	
 ### 4.1 Optimize Data Source
 #### Auto Loader Considerations
