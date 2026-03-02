@@ -42,6 +42,7 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 
 #### VM considerations
 - https://learn.microsoft.com/en-us/azure/databricks/optimizations/disk-cache
+- https://learn.microsoft.com/en-us/azure/databricks/compute/flexible-node-type-instances
 
 #### Cluster Configuration Unity Catalog Considerations
 - https://docs.databricks.com/aws/en/compute/access-mode-limitations
