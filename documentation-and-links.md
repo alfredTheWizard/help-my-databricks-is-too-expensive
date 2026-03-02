@@ -3,7 +3,6 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 
 ## 2. Azure Databricks Pricing
 - https://azure.microsoft.com/en-us/pricing/details/databricks/
-- https://www.databricks.com/product/pricing
 
 #### (extra) Cost of Azure Private Link
 - https://azure.microsoft.com/en-us/pricing/details/private-link/
