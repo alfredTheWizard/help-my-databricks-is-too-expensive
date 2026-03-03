@@ -66,7 +66,12 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 #### Cost savings for Streaming
 - https://www.databricks.com/blog/2017/05/22/running-streaming-jobs-day-10x-cost-savings.html
 
-### 4.6	Prepay for Resources
+### 5. Extra
+#### Limit Azure Databricks users (to save costs)
+-	https://www.databricks.com/blog/best-practices-cost-management-databricks
+-	https://learn.microsoft.com/en-gb/azure/databricks/admin/clusters/policies
+-	https://learn.microsoft.com/en-us/azure/databricks/admin/clusters/policy-families
+
 #### Databricks Reserved Capacity
 https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-databricks-reserved-capacity
 
@@ -75,10 +80,4 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/pre
 -	https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances
 -	https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/savings-plan-compute-overview
 -	https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/decide-between-savings-plan-reservation
-
-### 5. Extra
-#### Limit Azure Databricks users (to save costs)
--	https://www.databricks.com/blog/best-practices-cost-management-databricks
--	https://learn.microsoft.com/en-gb/azure/databricks/admin/clusters/policies
--	https://learn.microsoft.com/en-us/azure/databricks/admin/clusters/policy-families
 
