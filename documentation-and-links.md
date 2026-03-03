@@ -78,6 +78,3 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/pre
 -	https://learn.microsoft.com/en-gb/azure/databricks/admin/clusters/policies
 -	https://learn.microsoft.com/en-us/azure/databricks/admin/clusters/policy-families
 
-#### Workspace Tier
-https://www.databricks.com/product/pricing/platform-addons
-
