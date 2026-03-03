@@ -12,7 +12,7 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 ### Implement (Workspace) Budgets in Databricks Account Console
 - https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/budgets
 
-### Cloud infra costs
+### Cloud infra costs (PRIVATE PREVIEW)
 - https://www.databricks.com/blog/getting-full-picture-unifying-databricks-and-cloud-infrastructure-costs
 - https://github.com/databricks-solutions/cloud-infra-costs?tab=readme-ov-file
 
