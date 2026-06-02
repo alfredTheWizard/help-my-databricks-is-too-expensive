@@ -18,7 +18,7 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 -	https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/serverless-quotas
 
 ### Monitor Databricks DBU usage with Usage Dashboard
-- https://docs.databricks.com/en/admin/account-settings/usage.htmlx
+- https://docs.databricks.com/aws/en/admin/account-settings/usage
 
 ### Stop (creation) of resources after budget alert in Azure Portal
 - https://learn.microsoft.com/en-us/answers/questions/1669420/enforcing-cost-limit-per-subscription-or-tenant-to
