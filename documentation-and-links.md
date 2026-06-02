@@ -37,10 +37,8 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 ### 4.1 Optimize Data Source
 #### Auto Loader Considerations
 -	https://docs.databricks.com/en/ingestion/cloud-object-storage/auto-loader/file-detection-modes.html
--	https://docs.databricks.com/en/ingestion/cloud-object-storage/auto-loader/production.html
--	https://learn.microsoft.com/en-us/azure/databricks/ingestion/cloud-object-storage/auto-loader/options
 -	https://learn.microsoft.com/en-us/azure/databricks/ingestion/cloud-object-storage/auto-loader/file-notification-mode
--	https://docs.databricks.com/en/ingestion/cloud-object-storage/auto-loader/unity-catalog.html
+-	https://docs.databricks.com/en/ingestion/cloud-object-storage/auto-loader/production.html
   
 ### 4.2 Cluster Settings
 #### Cluster Configuration Considerations
