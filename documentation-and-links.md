@@ -9,6 +9,9 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 
 ## 3.	Monitoring & Alerts
 
+## Overview of options Databricks
+- https://learn.microsoft.com/en-us/azure/databricks/admin/usage/
+
 ### Implement (Workspace) Budgets in Databricks Account Console
 - https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/budgets
 
@@ -18,14 +21,17 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 -	https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/serverless-quotas
 
 ### Monitor Databricks DBU usage with Usage Dashboard
-- https://docs.databricks.com/aws/en/admin/account-settings/usage
+- https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/usage
+
+### Cloud Infra Costs (PRIVATE PREVIEW)
+- https://www.databricks.com/blog/getting-full-picture-unifying-databricks-and-cloud-infrastructure-costs
+- https://github.com/databricks-solutions/cloud-infra-costs?tab=readme-ov-file
+
+## Budgets and Alerts on Azure
+- https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets?tabs=psbudget
 
 ### Stop (creation) of resources after budget alert in Azure Portal
 - https://learn.microsoft.com/en-us/answers/questions/1669420/enforcing-cost-limit-per-subscription-or-tenant-to
-
-### Cloud infra costs (PRIVATE PREVIEW)
-- https://www.databricks.com/blog/getting-full-picture-unifying-databricks-and-cloud-infrastructure-costs
-- https://github.com/databricks-solutions/cloud-infra-costs?tab=readme-ov-file
 
 ## 4. Solutions	
 ### 4.1 Optimize Data Source
