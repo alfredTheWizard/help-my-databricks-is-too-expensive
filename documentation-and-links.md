@@ -43,20 +43,18 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 ### 4.2 Cluster Settings
 #### Cluster Configuration Considerations
 -	https://docs.databricks.com/en/compute/photon.html
--	https://youtu.be/4Q2XmEsjfmg?si=3GZHMJ_Zt2DyL66E
--	https://azure.microsoft.com/en-us/products/virtual-machines/spot#spot-virtual-machines
 -	https://www.databricks.com/blog/2021/05/25/leverage-unused-compute-capacity-for-data-ai-with-azure-spot-instances-and-azure-databricks.html
+- Spot Instances Video: https://youtu.be/4Q2XmEsjfmg?si=3GZHMJ_Zt2DyL66E
 
 #### VM considerations
 - https://learn.microsoft.com/en-us/azure/databricks/optimizations/disk-cache
 - https://learn.microsoft.com/en-us/azure/databricks/compute/flexible-node-type-instances
 
-#### Cluster Configuration Unity Catalog Considerations
-- https://docs.databricks.com/aws/en/compute/access-mode-limitations
-
 #### Policies and access modes
 - https://docs.databricks.com/aws/en/admin/clusters/policy-families
+- https://learn.microsoft.com/en-gb/azure/databricks/admin/clusters/policies
 - https://learn.microsoft.com/en-us/azure/databricks/compute/configure#access-mode
+- https://docs.databricks.com/aws/en/compute/access-mode-limitations
 
 ### 4.4 Configure compute for jobs
 #### Compute
@@ -64,23 +62,20 @@ Some documentation and links to aid you in decreasing your Azure Databricks spen
 
 #### Triggers
 -	https://docs.databricks.com/en/jobs/triggers.html
--	https://docs.databricks.com/en/jobs/file-arrival-triggers.html
 
 ### 4.5	Streaming on Databricks
 #### Cost savings for Streaming
 - https://www.databricks.com/blog/2017/05/22/running-streaming-jobs-day-10x-cost-savings.html
 
 ### 5. Extra
-#### Limit Azure Databricks users (to save costs)
+#### Best practices
 -	https://www.databricks.com/blog/best-practices-cost-management-databricks
--	https://learn.microsoft.com/en-gb/azure/databricks/admin/clusters/policies
--	https://learn.microsoft.com/en-us/azure/databricks/admin/clusters/policy-families
 
 #### Databricks Reserved Capacity
-https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-databricks-reserved-capacity
+- https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-databricks-reserved-capacity
 
 #### Prepay VM’s (Reserved Instances and Savings plan)
-- https://youtu.be/lBnKBV2r6lI?si=0juKI1WjbcHlXOvP
+- Savings Plan Youtube video: https://youtu.be/lBnKBV2r6lI?si=0juKI1WjbcHlXOvP
 -	https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances
 -	https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/savings-plan-compute-overview
 -	https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/decide-between-savings-plan-reservation
